@@ -1,0 +1,45 @@
+
+.parent1 {
+  display: flex;
+}
+@media (min-width: 1200px) {
+  .ll {
+    display: none;
+  }
+  .mobile {
+    display: none;
+  }
+  .ss {
+    display: none;
+  }
+}
+@media (max-width: 567px) {
+  .ll {
+    display: block;
+  }
+  .ww {
+    display: none;
+  }
+  .parent1 {
+    display: block;
+  }
+}
+
+.input-search-box {
+  position: relative;
+}
+.input-search-box input {
+  padding: 15px 50px 15px 15px !important;
+  color: aliceblue !important ;
+  border-radius: 30px !important;
+}
+.input-group-text {
+  position: absolute;
+  color: #ee9611;
+  background: #00000000 !important;
+  border: none;
+  top: 50%;
+  transform: translateY(-60%);
+  right: 10px;
+}
+

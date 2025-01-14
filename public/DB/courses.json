@@ -1,0 +1,1739 @@
+[
+    {
+        "id":"1",
+        "title": "Python Programming Language",
+        "instructor": "Mohammed Nour",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, June 7th",
+        "publishedOn": "Wednesday, June 14th, 12:30 PM",
+        "students": ["1", "2", 103, 104, 105],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "Arabic",
+        "duration": "13 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Python",
+                "summary": "Basic introduction to Python programming language and its uses.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Functions in Python",
+                "summary": "In-depth explanation of functions, arguments, and scope in Python.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Working with Arrays",
+                "summary": "An overview of arrays and how to manipulate data structures in Python.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Quiz and coding exercises after each module.",
+        "requirements": [
+            "Basic understanding of programming concepts",
+            "A laptop or desktop with internet access"
+        ],
+        "materials": [
+            "Python installed on your system",
+            "Course notes and reference documents provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"2",
+        "title": "JavaScript Essentials",
+        "instructor": "Brendan Eich",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, August 7th",
+        "publishedOn": "Wednesday, August 14th, 10:00 AM",
+        "students": [106, 107, 108, 109, 110],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "10 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to JavaScript",
+                "summary": "Understanding the basics of JavaScript and how it works.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "JavaScript Functions",
+                "summary": "Understanding functions, callbacks, and closures in JavaScript.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Manipulating the DOM",
+                "summary": "Learn how to manipulate web page content using JavaScript.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project and weekly quizzes.",
+        "requirements": [
+            "A basic understanding of HTML and CSS",
+            "A modern web browser"
+        ],
+        "materials": [
+            "Text editor like VSCode",
+            "JavaScript reference materials provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"3",
+        "title": "Advanced React.js",
+        "instructor": "Dan Abramov",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 1st",
+        "publishedOn": "Monday, July 8th, 12:00 PM",
+        "students": [111, 112, 113, 114],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "15 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "React Hooks",
+                "summary": "Introduction to React hooks like useState, useEffect, and custom hooks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Managing State with Redux",
+                "summary": "Deep dive into managing state in large applications using Redux.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Optimizing Performance in React",
+                "summary": "Techniques for improving the performance of React applications.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project: Build a complex React app.",
+        "requirements": [
+            "Familiarity with JavaScript and React.js",
+            "Node.js and npm installed"
+        ],
+        "materials": [
+            "React.js documentation",
+            "Code snippets and GitHub repositories"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"4",
+        "title": "Node.js Backend Development",
+        "instructor": "Ryan Dahl",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 5th",
+        "publishedOn": "Monday, June 12th, 1:00 PM",
+        "students": [115, 116, 117, 118],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "16 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Node.js",
+                "summary": "Overview of Node.js and building your first server.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Working with Express.js",
+                "summary": "Understanding how to build APIs using Express.js.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Database Integration with MongoDB",
+                "summary": "Learn how to connect Node.js apps to MongoDB for data storage.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a backend API as the final project.",
+        "requirements": [
+            "Basic JavaScript knowledge",
+            "Familiarity with RESTful APIs"
+        ],
+        "materials": [
+            "Node.js installed on your system",
+            "Postman or another API testing tool"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"5",
+        "title": "Full Stack Web Development",
+        "instructor": "Colt Steele",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, August 14th",
+        "publishedOn": "Monday, August 21st, 2:00 PM",
+        "students": [119, 120, 121, 122],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "25 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Web Development",
+                "summary": "Overview of front-end and back-end web development concepts.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building with HTML & CSS",
+                "summary": "Learn how to structure web pages using HTML and style them with CSS.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "JavaScript for Interactivity",
+                "summary": "Using JavaScript to add interactivity and functionality to web pages.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create a full-stack web application as the final project.",
+        "requirements": [
+            "Basic understanding of HTML & CSS",
+            "Willingness to learn back-end technologies"
+        ],
+        "materials": [
+            "VSCode or another code editor",
+            "Git and GitHub for version control"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"6",
+        "title": "Machine Learning with Python",
+        "instructor": "Andrew Ng",
+        "status": "On Going",
+        "level": "2",
+        "startDate": "Monday, September 4th",
+        "publishedOn": "Monday, September 11th, 3:00 PM",
+        "students": [123, 124, 125, 126],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "30 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Machine Learning",
+                "summary": "Overview of machine learning concepts and applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Supervised Learning Algorithms",
+                "summary": "Learn about supervised learning techniques such as regression and classification.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Unsupervised Learning Algorithms",
+                "summary": "Explore clustering, dimensionality reduction, and other unsupervised learning techniques.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Complete a project using a real-world dataset and present your findings.",
+        "requirements": [
+            "Basic knowledge of Python",
+            "Understanding of linear algebra and statistics"
+        ],
+        "materials": [
+            "Jupyter Notebook",
+            "Scikit-learn, NumPy, and Pandas libraries"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"7",
+        "title": "iOS App Development with Swift",
+        "instructor": "Angela Yu",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 10th",
+        "publishedOn": "Monday, July 17th, 10:00 AM",
+        "students": [127, 128, 129, 130],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "20 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Swift Programming",
+                "summary": "An introduction to Swift programming language and basic syntax.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building UI with SwiftUI",
+                "summary": "Learn how to create responsive and interactive UIs using SwiftUI.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Networking and APIs",
+                "summary": "How to connect your app to external APIs and fetch data.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a complete iOS app and submit it as a final project.",
+        "requirements": [
+            "Basic programming knowledge",
+            "MacOS machine with Xcode installed"
+        ],
+        "materials": [
+            "Xcode IDE",
+            "Swift and SwiftUI documentation"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"8",
+        "title": "Data Structures and Algorithms",
+        "instructor": "Robert Sedgewick",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, May 15th",
+        "publishedOn": "Monday, May 22nd, 9:00 AM",
+        "students": [131, 132, 133, 134],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "35 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Data Structures",
+                "summary": "Understanding basic data structures such as arrays, linked lists, and stacks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Sorting Algorithms",
+                "summary": "Learn various sorting algorithms such as quicksort and mergesort.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Graph Algorithms",
+                "summary": "Explore algorithms for graph traversal and shortest path finding.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Solve multiple algorithmic problems and optimize your solutions.",
+        "requirements": [
+            "Basic knowledge of programming",
+            "Understanding of time complexity and Big O notation"
+        ],
+        "materials": [
+            "LeetCode account for practicing problems",
+            "Text editor or IDE of your choice"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"9",
+        "title": "DevOps Fundamentals",
+        "instructor": "Kelsey Hightower",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, October 2nd",
+        "publishedOn": "Monday, October 9th, 4:00 PM",
+        "students": [135, 136, 137, 138],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "18 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to DevOps",
+                "summary": "Learn what DevOps is and why it is important in modern software development.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "CI/CD Pipelines",
+                "summary": "How to automate the build, test, and deployment processes.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Infrastructure as Code",
+                "summary": "Managing and provisioning infrastructure using code with tools like Terraform.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a CI/CD pipeline for a sample application.",
+        "requirements": [
+            "Basic knowledge of cloud services",
+            "Understanding of software development lifecycle"
+        ],
+        "materials": [
+            "AWS or GCP account",
+            "Docker and Terraform installed on your system"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"10",
+        "title": "Blockchain Development",
+        "instructor": "Vitalik Buterin",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 12th",
+        "publishedOn": "Monday, June 19th, 11:00 AM",
+        "students": [139, 140, 141, 142],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "40 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Blockchain",
+                "summary": "Understanding the basics of blockchain technology and its applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Smart Contracts with Solidity",
+                "summary": "Learn how to create smart contracts on Ethereum using Solidity.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Building Decentralized Applications (DApps)",
+                "summary": "Develop and deploy DApps on Ethereum using Web3.js.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create and deploy your own decentralized application on a test network.",
+        "requirements": [
+            "Basic understanding of cryptography",
+            "Familiarity with programming and JavaScript"
+        ],
+        "materials": [
+            "MetaMask account",
+            "Truffle and Ganache installed for local development"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id": 11,
+        "title": "Python Programming Language",
+        "instructor": "Mohammed Nour",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, June 7th",
+        "publishedOn": "Wednesday, June 14th, 12:30 PM",
+        "students": ["1", "2", 103, 104, 105],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "Arabic",
+        "duration": "13 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Python",
+                "summary": "Basic introduction to Python programming language and its uses.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Functions in Python",
+                "summary": "In-depth explanation of functions, arguments, and scope in Python.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Working with Arrays",
+                "summary": "An overview of arrays and how to manipulate data structures in Python.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Quiz and coding exercises after each module.",
+        "requirements": [
+            "Basic understanding of programming concepts",
+            "A laptop or desktop with internet access"
+        ],
+        "materials": [
+            "Python installed on your system",
+            "Course notes and reference documents provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"12",
+        "title": "JavaScript Essentials",
+        "instructor": "Brendan Eich",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, August 7th",
+        "publishedOn": "Wednesday, August 14th, 10:00 AM",
+        "students": [106, 107, 108, 109, 110],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "10 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to JavaScript",
+                "summary": "Understanding the basics of JavaScript and how it works.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "JavaScript Functions",
+                "summary": "Understanding functions, callbacks, and closures in JavaScript.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Manipulating the DOM",
+                "summary": "Learn how to manipulate web page content using JavaScript.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project and weekly quizzes.",
+        "requirements": [
+            "A basic understanding of HTML and CSS",
+            "A modern web browser"
+        ],
+        "materials": [
+            "Text editor like VSCode",
+            "JavaScript reference materials provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"13",
+        "title": "Advanced React.js",
+        "instructor": "Dan Abramov",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 1st",
+        "publishedOn": "Monday, July 8th, 12:00 PM",
+        "students": [111, 112, 113, 114],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "15 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "React Hooks",
+                "summary": "Introduction to React hooks like useState, useEffect, and custom hooks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Managing State with Redux",
+                "summary": "Deep dive into managing state in large applications using Redux.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Optimizing Performance in React",
+                "summary": "Techniques for improving the performance of React applications.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project: Build a complex React app.",
+        "requirements": [
+            "Familiarity with JavaScript and React.js",
+            "Node.js and npm installed"
+        ],
+        "materials": [
+            "React.js documentation",
+            "Code snippets and GitHub repositories"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"14",
+        "title": "Node.js Backend Development",
+        "instructor": "Ryan Dahl",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 5th",
+        "publishedOn": "Monday, June 12th, 1:00 PM",
+        "students": [115, 116, 117, 118],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "16 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Node.js",
+                "summary": "Overview of Node.js and building your first server.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Working with Express.js",
+                "summary": "Understanding how to build APIs using Express.js.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Database Integration with MongoDB",
+                "summary": "Learn how to connect Node.js apps to MongoDB for data storage.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a backend API as the final project.",
+        "requirements": [
+            "Basic JavaScript knowledge",
+            "Familiarity with RESTful APIs"
+        ],
+        "materials": [
+            "Node.js installed on your system",
+            "Postman or another API testing tool"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"15",
+        "title": "Full Stack Web Development",
+        "instructor": "Colt Steele",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, August 14th",
+        "publishedOn": "Monday, August 21st, 2:00 PM",
+        "students": [119, 120, 121, 122],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "25 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Web Development",
+                "summary": "Overview of front-end and back-end web development concepts.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building with HTML & CSS",
+                "summary": "Learn how to structure web pages using HTML and style them with CSS.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "JavaScript for Interactivity",
+                "summary": "Using JavaScript to add interactivity and functionality to web pages.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create a full-stack web application as the final project.",
+        "requirements": [
+            "Basic understanding of HTML & CSS",
+            "Willingness to learn back-end technologies"
+        ],
+        "materials": [
+            "VSCode or another code editor",
+            "Git and GitHub for version control"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"16",
+        "title": "Machine Learning with Python",
+        "instructor": "Andrew Ng",
+        "status": "On Going",
+        "level": "2",
+        "startDate": "Monday, September 4th",
+        "publishedOn": "Monday, September 11th, 3:00 PM",
+        "students": [123, 124, 125, 126],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "30 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Machine Learning",
+                "summary": "Overview of machine learning concepts and applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Supervised Learning Algorithms",
+                "summary": "Learn about supervised learning techniques such as regression and classification.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Unsupervised Learning Algorithms",
+                "summary": "Explore clustering, dimensionality reduction, and other unsupervised learning techniques.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Complete a project using a real-world dataset and present your findings.",
+        "requirements": [
+            "Basic knowledge of Python",
+            "Understanding of linear algebra and statistics"
+        ],
+        "materials": [
+            "Jupyter Notebook",
+            "Scikit-learn, NumPy, and Pandas libraries"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"17",
+        "title": "iOS App Development with Swift",
+        "instructor": "Angela Yu",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 10th",
+        "publishedOn": "Monday, July 17th, 10:00 AM",
+        "students": [127, 128, 129, 130],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "20 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Swift Programming",
+                "summary": "An introduction to Swift programming language and basic syntax.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building UI with SwiftUI",
+                "summary": "Learn how to create responsive and interactive UIs using SwiftUI.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Networking and APIs",
+                "summary": "How to connect your app to external APIs and fetch data.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a complete iOS app and submit it as a final project.",
+        "requirements": [
+            "Basic programming knowledge",
+            "MacOS machine with Xcode installed"
+        ],
+        "materials": [
+            "Xcode IDE",
+            "Swift and SwiftUI documentation"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"18",
+        "title": "Data Structures and Algorithms",
+        "instructor": "Robert Sedgewick",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, May 15th",
+        "publishedOn": "Monday, May 22nd, 9:00 AM",
+        "students": [131, 132, 133, 134],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "35 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Data Structures",
+                "summary": "Understanding basic data structures such as arrays, linked lists, and stacks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Sorting Algorithms",
+                "summary": "Learn various sorting algorithms such as quicksort and mergesort.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Graph Algorithms",
+                "summary": "Explore algorithms for graph traversal and shortest path finding.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Solve multiple algorithmic problems and optimize your solutions.",
+        "requirements": [
+            "Basic knowledge of programming",
+            "Understanding of time complexity and Big O notation"
+        ],
+        "materials": [
+            "LeetCode account for practicing problems",
+            "Text editor or IDE of your choice"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"19",
+        "title": "DevOps Fundamentals",
+        "instructor": "Kelsey Hightower",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, October 2nd",
+        "publishedOn": "Monday, October 9th, 4:00 PM",
+        "students": [135, 136, 137, 138],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "18 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to DevOps",
+                "summary": "Learn what DevOps is and why it is important in modern software development.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "CI/CD Pipelines",
+                "summary": "How to automate the build, test, and deployment processes.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Infrastructure as Code",
+                "summary": "Managing and provisioning infrastructure using code with tools like Terraform.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a CI/CD pipeline for a sample application.",
+        "requirements": [
+            "Basic knowledge of cloud services",
+            "Understanding of software development lifecycle"
+        ],
+        "materials": [
+            "AWS or GCP account",
+            "Docker and Terraform installed on your system"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"20",
+        "title": "Blockchain Development",
+        "instructor": "Vitalik Buterin",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 12th",
+        "publishedOn": "Monday, June 19th, 11:00 AM",
+        "students": [139, 140, 141, 142],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "40 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Blockchain",
+                "summary": "Understanding the basics of blockchain technology and its applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Smart Contracts with Solidity",
+                "summary": "Learn how to create smart contracts on Ethereum using Solidity.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Building Decentralized Applications (DApps)",
+                "summary": "Develop and deploy DApps on Ethereum using Web3.js.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create and deploy your own decentralized application on a test network.",
+        "requirements": [
+            "Basic understanding of cryptography",
+            "Familiarity with programming and JavaScript"
+        ],
+        "materials": [
+            "MetaMask account",
+            "Truffle and Ganache installed for local development"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id": 21,
+        "title": "Python Programming Language",
+        "instructor": "Mohammed Nour",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, June 7th",
+        "publishedOn": "Wednesday, June 14th, 12:30 PM",
+        "students": ["1", "2", 103, 104, 105],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "Arabic",
+        "duration": "13 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Python",
+                "summary": "Basic introduction to Python programming language and its uses.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Functions in Python",
+                "summary": "In-depth explanation of functions, arguments, and scope in Python.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Working with Arrays",
+                "summary": "An overview of arrays and how to manipulate data structures in Python.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Quiz and coding exercises after each module.",
+        "requirements": [
+            "Basic understanding of programming concepts",
+            "A laptop or desktop with internet access"
+        ],
+        "materials": [
+            "Python installed on your system",
+            "Course notes and reference documents provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"22",
+        "title": "JavaScript Essentials",
+        "instructor": "Brendan Eich",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, August 7th",
+        "publishedOn": "Wednesday, August 14th, 10:00 AM",
+        "students": [106, 107, 108, 109, 110],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "10 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to JavaScript",
+                "summary": "Understanding the basics of JavaScript and how it works.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "JavaScript Functions",
+                "summary": "Understanding functions, callbacks, and closures in JavaScript.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Manipulating the DOM",
+                "summary": "Learn how to manipulate web page content using JavaScript.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project and weekly quizzes.",
+        "requirements": [
+            "A basic understanding of HTML and CSS",
+            "A modern web browser"
+        ],
+        "materials": [
+            "Text editor like VSCode",
+            "JavaScript reference materials provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"23",
+        "title": "Advanced React.js",
+        "instructor": "Dan Abramov",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 1st",
+        "publishedOn": "Monday, July 8th, 12:00 PM",
+        "students": [111, 112, 113, 114],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "15 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "React Hooks",
+                "summary": "Introduction to React hooks like useState, useEffect, and custom hooks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Managing State with Redux",
+                "summary": "Deep dive into managing state in large applications using Redux.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Optimizing Performance in React",
+                "summary": "Techniques for improving the performance of React applications.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project: Build a complex React app.",
+        "requirements": [
+            "Familiarity with JavaScript and React.js",
+            "Node.js and npm installed"
+        ],
+        "materials": [
+            "React.js documentation",
+            "Code snippets and GitHub repositories"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"24",
+        "title": "Node.js Backend Development",
+        "instructor": "Ryan Dahl",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 5th",
+        "publishedOn": "Monday, June 12th, 1:00 PM",
+        "students": [115, 116, 117, 118],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "16 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Node.js",
+                "summary": "Overview of Node.js and building your first server.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Working with Express.js",
+                "summary": "Understanding how to build APIs using Express.js.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Database Integration with MongoDB",
+                "summary": "Learn how to connect Node.js apps to MongoDB for data storage.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a backend API as the final project.",
+        "requirements": [
+            "Basic JavaScript knowledge",
+            "Familiarity with RESTful APIs"
+        ],
+        "materials": [
+            "Node.js installed on your system",
+            "Postman or another API testing tool"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"25",
+        "title": "Full Stack Web Development",
+        "instructor": "Colt Steele",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, August 14th",
+        "publishedOn": "Monday, August 21st, 2:00 PM",
+        "students": [119, 120, 121, 122],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "25 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Web Development",
+                "summary": "Overview of front-end and back-end web development concepts.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building with HTML & CSS",
+                "summary": "Learn how to structure web pages using HTML and style them with CSS.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "JavaScript for Interactivity",
+                "summary": "Using JavaScript to add interactivity and functionality to web pages.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create a full-stack web application as the final project.",
+        "requirements": [
+            "Basic understanding of HTML & CSS",
+            "Willingness to learn back-end technologies"
+        ],
+        "materials": [
+            "VSCode or another code editor",
+            "Git and GitHub for version control"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"26",
+        "title": "Machine Learning with Python",
+        "instructor": "Andrew Ng",
+        "status": "On Going",
+        "level": "2",
+        "startDate": "Monday, September 4th",
+        "publishedOn": "Monday, September 11th, 3:00 PM",
+        "students": [123, 124, 125, 126],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "30 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Machine Learning",
+                "summary": "Overview of machine learning concepts and applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Supervised Learning Algorithms",
+                "summary": "Learn about supervised learning techniques such as regression and classification.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Unsupervised Learning Algorithms",
+                "summary": "Explore clustering, dimensionality reduction, and other unsupervised learning techniques.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Complete a project using a real-world dataset and present your findings.",
+        "requirements": [
+            "Basic knowledge of Python",
+            "Understanding of linear algebra and statistics"
+        ],
+        "materials": [
+            "Jupyter Notebook",
+            "Scikit-learn, NumPy, and Pandas libraries"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"27",
+        "title": "iOS App Development with Swift",
+        "instructor": "Angela Yu",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 10th",
+        "publishedOn": "Monday, July 17th, 10:00 AM",
+        "students": [127, 128, 129, 130],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "20 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Swift Programming",
+                "summary": "An introduction to Swift programming language and basic syntax.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building UI with SwiftUI",
+                "summary": "Learn how to create responsive and interactive UIs using SwiftUI.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Networking and APIs",
+                "summary": "How to connect your app to external APIs and fetch data.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a complete iOS app and submit it as a final project.",
+        "requirements": [
+            "Basic programming knowledge",
+            "MacOS machine with Xcode installed"
+        ],
+        "materials": [
+            "Xcode IDE",
+            "Swift and SwiftUI documentation"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"28",
+        "title": "Data Structures and Algorithms",
+        "instructor": "Robert Sedgewick",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, May 15th",
+        "publishedOn": "Monday, May 22nd, 9:00 AM",
+        "students": [131, 132, 133, 134],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "35 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Data Structures",
+                "summary": "Understanding basic data structures such as arrays, linked lists, and stacks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Sorting Algorithms",
+                "summary": "Learn various sorting algorithms such as quicksort and mergesort.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Graph Algorithms",
+                "summary": "Explore algorithms for graph traversal and shortest path finding.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Solve multiple algorithmic problems and optimize your solutions.",
+        "requirements": [
+            "Basic knowledge of programming",
+            "Understanding of time complexity and Big O notation"
+        ],
+        "materials": [
+            "LeetCode account for practicing problems",
+            "Text editor or IDE of your choice"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"29",
+        "title": "DevOps Fundamentals",
+        "instructor": "Kelsey Hightower",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, October 2nd",
+        "publishedOn": "Monday, October 9th, 4:00 PM",
+        "students": [135, 136, 137, 138],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "18 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to DevOps",
+                "summary": "Learn what DevOps is and why it is important in modern software development.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "CI/CD Pipelines",
+                "summary": "How to automate the build, test, and deployment processes.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Infrastructure as Code",
+                "summary": "Managing and provisioning infrastructure using code with tools like Terraform.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a CI/CD pipeline for a sample application.",
+        "requirements": [
+            "Basic knowledge of cloud services",
+            "Understanding of software development lifecycle"
+        ],
+        "materials": [
+            "AWS or GCP account",
+            "Docker and Terraform installed on your system"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"30",
+        "title": "Blockchain Development",
+        "instructor": "Vitalik Buterin",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 12th",
+        "publishedOn": "Monday, June 19th, 11:00 AM",
+        "students": [139, 140, 141, 142],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "40 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Blockchain",
+                "summary": "Understanding the basics of blockchain technology and its applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Smart Contracts with Solidity",
+                "summary": "Learn how to create smart contracts on Ethereum using Solidity.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Building Decentralized Applications (DApps)",
+                "summary": "Develop and deploy DApps on Ethereum using Web3.js.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create and deploy your own decentralized application on a test network.",
+        "requirements": [
+            "Basic understanding of cryptography",
+            "Familiarity with programming and JavaScript"
+        ],
+        "materials": [
+            "MetaMask account",
+            "Truffle and Ganache installed for local development"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id": 31,
+        "title": "Python Programming Language",
+        "instructor": "Mohammed Nour",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, June 7th",
+        "publishedOn": "Wednesday, June 14th, 12:30 PM",
+        "students": ["1", "2", 103, 104, 105],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "Arabic",
+        "duration": "13 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Python",
+                "summary": "Basic introduction to Python programming language and its uses.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Functions in Python",
+                "summary": "In-depth explanation of functions, arguments, and scope in Python.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Working with Arrays",
+                "summary": "An overview of arrays and how to manipulate data structures in Python.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Quiz and coding exercises after each module.",
+        "requirements": [
+            "Basic understanding of programming concepts",
+            "A laptop or desktop with internet access"
+        ],
+        "materials": [
+            "Python installed on your system",
+            "Course notes and reference documents provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"32",
+        "title": "JavaScript Essentials",
+        "instructor": "Brendan Eich",
+        "isNew": true ,
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Wednesday, August 7th",
+        "publishedOn": "Wednesday, August 14th, 10:00 AM",
+        "students": [106, 107, 108, 109, 110],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "10 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to JavaScript",
+                "summary": "Understanding the basics of JavaScript and how it works.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "JavaScript Functions",
+                "summary": "Understanding functions, callbacks, and closures in JavaScript.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Manipulating the DOM",
+                "summary": "Learn how to manipulate web page content using JavaScript.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project and weekly quizzes.",
+        "requirements": [
+            "A basic understanding of HTML and CSS",
+            "A modern web browser"
+        ],
+        "materials": [
+            "Text editor like VSCode",
+            "JavaScript reference materials provided"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"33",
+        "title": "Advanced React.js",
+        "instructor": "Dan Abramov",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 1st",
+        "publishedOn": "Monday, July 8th, 12:00 PM",
+        "students": [111, 112, 113, 114],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "15 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "React Hooks",
+                "summary": "Introduction to React hooks like useState, useEffect, and custom hooks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Managing State with Redux",
+                "summary": "Deep dive into managing state in large applications using Redux.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Optimizing Performance in React",
+                "summary": "Techniques for improving the performance of React applications.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Final project: Build a complex React app.",
+        "requirements": [
+            "Familiarity with JavaScript and React.js",
+            "Node.js and npm installed"
+        ],
+        "materials": [
+            "React.js documentation",
+            "Code snippets and GitHub repositories"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"34",
+        "title": "Node.js Backend Development",
+        "instructor": "Ryan Dahl",
+        "isNew": true ,
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 5th",
+        "publishedOn": "Monday, June 12th, 1:00 PM",
+        "students": [115, 116, 117, 118],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "16 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Node.js",
+                "summary": "Overview of Node.js and building your first server.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Working with Express.js",
+                "summary": "Understanding how to build APIs using Express.js.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Database Integration with MongoDB",
+                "summary": "Learn how to connect Node.js apps to MongoDB for data storage.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a backend API as the final project.",
+        "requirements": [
+            "Basic JavaScript knowledge",
+            "Familiarity with RESTful APIs"
+        ],
+        "materials": [
+            "Node.js installed on your system",
+            "Postman or another API testing tool"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"35",
+        "title": "Full Stack Web Development",
+        "instructor": "Colt Steele",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, August 14th",
+        "publishedOn": "Monday, August 21st, 2:00 PM",
+        "students": [119, 120, 121, 122],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "25 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Web Development",
+                "summary": "Overview of front-end and back-end web development concepts.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building with HTML & CSS",
+                "summary": "Learn how to structure web pages using HTML and style them with CSS.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "JavaScript for Interactivity",
+                "summary": "Using JavaScript to add interactivity and functionality to web pages.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create a full-stack web application as the final project.",
+        "requirements": [
+            "Basic understanding of HTML & CSS",
+            "Willingness to learn back-end technologies"
+        ],
+        "materials": [
+            "VSCode or another code editor",
+            "Git and GitHub for version control"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"36",
+        "title": "Machine Learning with Python",
+        "instructor": "Andrew Ng",
+        "status": "On Going",
+        "level": "2",
+        "startDate": "Monday, September 4th",
+        "publishedOn": "Monday, September 11th, 3:00 PM",
+        "students": [123, 124, 125, 126],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "30 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Machine Learning",
+                "summary": "Overview of machine learning concepts and applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Supervised Learning Algorithms",
+                "summary": "Learn about supervised learning techniques such as regression and classification.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Unsupervised Learning Algorithms",
+                "summary": "Explore clustering, dimensionality reduction, and other unsupervised learning techniques.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Complete a project using a real-world dataset and present your findings.",
+        "requirements": [
+            "Basic knowledge of Python",
+            "Understanding of linear algebra and statistics"
+        ],
+        "materials": [
+            "Jupyter Notebook",
+            "Scikit-learn, NumPy, and Pandas libraries"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"37",
+        "title": "iOS App Development with Swift",
+        "instructor": "Angela Yu",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, July 10th",
+        "publishedOn": "Monday, July 17th, 10:00 AM",
+        "students": [127, 128, 129, 130],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "20 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Swift Programming",
+                "summary": "An introduction to Swift programming language and basic syntax.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Building UI with SwiftUI",
+                "summary": "Learn how to create responsive and interactive UIs using SwiftUI.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Networking and APIs",
+                "summary": "How to connect your app to external APIs and fetch data.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a complete iOS app and submit it as a final project.",
+        "requirements": [
+            "Basic programming knowledge",
+            "MacOS machine with Xcode installed"
+        ],
+        "materials": [
+            "Xcode IDE",
+            "Swift and SwiftUI documentation"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"38",
+        "title": "Data Structures and Algorithms",
+        "instructor": "Robert Sedgewick",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, May 15th",
+        "publishedOn": "Monday, May 22nd, 9:00 AM",
+        "students": [131, 132, 133, 134],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "35 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Data Structures",
+                "summary": "Understanding basic data structures such as arrays, linked lists, and stacks.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Sorting Algorithms",
+                "summary": "Learn various sorting algorithms such as quicksort and mergesort.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Graph Algorithms",
+                "summary": "Explore algorithms for graph traversal and shortest path finding.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Solve multiple algorithmic problems and optimize your solutions.",
+        "requirements": [
+            "Basic knowledge of programming",
+            "Understanding of time complexity and Big O notation"
+        ],
+        "materials": [
+            "LeetCode account for practicing problems",
+            "Text editor or IDE of your choice"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"39",
+        "title": "DevOps Fundamentals",
+        "instructor": "Kelsey Hightower",
+        "status": "On Going",
+        "level": "1",
+        "startDate": "Monday, October 2nd",
+        "publishedOn": "Monday, October 9th, 4:00 PM",
+        "students": [135, 136, 137, 138],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "18 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to DevOps",
+                "summary": "Learn what DevOps is and why it is important in modern software development.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "CI/CD Pipelines",
+                "summary": "How to automate the build, test, and deployment processes.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Infrastructure as Code",
+                "summary": "Managing and provisioning infrastructure using code with tools like Terraform.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Build a CI/CD pipeline for a sample application.",
+        "requirements": [
+            "Basic knowledge of cloud services",
+            "Understanding of software development lifecycle"
+        ],
+        "materials": [
+            "AWS or GCP account",
+            "Docker and Terraform installed on your system"
+        ],
+        "certificate": "Upon completion"
+    },
+    {
+        "id":"40",
+        "title": "Blockchain Development",
+        "instructor": "Vitalik Buterin",
+        "status": "Ended",
+        "level": "2",
+        "startDate": "Monday, June 12th",
+        "publishedOn": "Monday, June 19th, 11:00 AM",
+        "students": [139, 140, 141, 142],
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGh5WFH8TOIfRKxUrIgJZoDCs1yvQ4hIcppw&s",
+        "language": "English",
+        "duration": "40 hours",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to Blockchain",
+                "summary": "Understanding the basics of blockchain technology and its applications.",
+                "url": "https://example.com/lesson1"
+            },
+            {
+                "id": 2,
+                "title": "Smart Contracts with Solidity",
+                "summary": "Learn how to create smart contracts on Ethereum using Solidity.",
+                "url": "https://example.com/lesson2"
+            },
+            {
+                "id": 3,
+                "title": "Building Decentralized Applications (DApps)",
+                "summary": "Develop and deploy DApps on Ethereum using Web3.js.",
+                "url": "https://example.com/lesson3"
+            }
+        ],
+        "assessment": "Create and deploy your own decentralized application on a test network.",
+        "requirements": [
+            "Basic understanding of cryptography",
+            "Familiarity with programming and JavaScript"
+        ],
+        "materials": [
+            "MetaMask account",
+            "Truffle and Ganache installed for local development"
+        ],
+        "certificate": "Upon completion"
+    }
+]
+

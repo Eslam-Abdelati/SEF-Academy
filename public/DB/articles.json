@@ -1,0 +1,227 @@
+[
+    {
+        "_id":"1",
+        "title": "AI in the Future of Work",
+        "status": "published",        
+        "category": "tech",
+        "publishedTime": "2024-09-13T23:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Artificial intelligence is poised to revolutionize the workforce by automating mundane tasks and enhancing productivity..."
+    },
+    {
+        "_id":"2",
+        "title": "Quantum Computing Breakthrough Quantum Computing Breakthrough Quantum Computing Breakthrough Quantum Computing Computing  Quantum Computing Breakthrough ",
+        "status": "draft",        
+        "category": "tech",
+        "publishedTime": "2024-09-14T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Quantum computing is making significant strides, potentially solving complex problems faster than classical computers..."
+    },
+    {
+        "_id":"3",
+        "title": "Cybersecurity in 2024",
+        "status": "published",        
+        "category": "tech",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "As technology advances, the need for robust cybersecurity solutions becomes critical to protect personal and corporate data..."
+    },
+    {
+        "_id":"4",
+        "title": "The Rise of 5G Networks",
+        "status": "published",        
+        "category": "tech",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "5G networks are expected to increase internet speeds and improve connectivity, revolutionizing industries and applications..."
+    },
+    {
+        "_id":"5",
+        "title": "Tech Applications in Healthcare",
+        "status": "published",        
+        "category": "tech",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Innovative tech applications are being integrated into healthcare, improving patient outcomes and streamlining processes..."
+    },
+    {
+        "_id":"6",
+        "title": "Economic Outlook for 2024",
+        "status": "draft",        
+        "category": "business",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "As the world recovers from recent economic disruptions, experts weigh in on what the future holds for global markets..."
+    },
+    {
+        "_id":"7",
+        "title": "Startups Revolutionizing the Industry",
+        "status": "published",        
+        "category": "business",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "A wave of new startups is disrupting traditional industries with innovative products and services..."
+    },
+    {
+        "_id":"8",
+        "title": "Financial Tech and Digital Banking",
+        "status": "published",        
+        "category": "business",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Digital banking and financial technology continue to shape the future of the financial industry, offering new ways to manage money..."
+    },
+    {
+        "_id":"9",
+        "title": "Corporate Sustainability in Focus",
+        "status": "published",        
+        "category": "business",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Corporations are adopting sustainability practices to reduce their carbon footprint and appeal to eco-conscious consumers..."
+    },
+    {
+        "_id":"10",
+        "title": "Mergers and Acquisitions on the Rise",
+        "status": "draft",        
+        "category": "business",
+        "publishedTime": "2024-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Recent trends show an uptick in mergers and acquisitions as companies seek to expand and consolidate their market positions..."
+    },
+    {
+        "_id":"11",
+        "title": "Olympics 2024: What to Expect",
+        "status": "published",        
+        "category": "sports",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "As the 2024 Olympics approach, athletes around the world are preparing for the biggest competition of their careers..."
+    },
+    {
+        "_id":"12",
+        "title": "Football World Cup Highlights",
+        "status": "published",        
+        "category": "sports",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "The 2024 Football World Cup was full of surprises and thrilling matches, captivating fans worldwide..."
+    },
+    {
+        "_id":"13",
+        "title": "Tennis Grand Slam Recap",
+        "status": "published",        
+        "category": "sports",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "This year's Tennis Grand Slam events showcased incredible talent and fierce competition..."
+    },
+    {
+        "_id":"14",
+        "title": "Basketball Season Overview",
+        "status": "published",        
+        "category": "sports",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "The basketball season was packed with intense matchups, unexpected wins, and standout performances from rising stars..."
+    },
+    {
+        "_id":"15",
+        "title": "Cricket: A Global Sport",
+        "status": "draft",        
+        "category": "sports",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Cricket continues to gain popularity worldwide, with new leagues and tournaments bringing more attention to the sport..."
+    },
+    {
+        "_id":"16",
+        "title": "Telemedicine's Role in Healthcare",
+        "status": "published",        
+        "category": "medical",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Telemedicine has revolutionized healthcare by providing remote consultations and reducing the need for physical visits..."
+    },
+    {
+        "_id":"17",
+        "title": "Vaccination Efforts in 2024",
+        "status": "published",        
+        "category": "medical",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Countries are ramping up vaccination efforts to curb the spread of diseases and ensure public health safety..."
+    },
+    {
+        "_id":"18",
+        "title": "Medical AI for Diagnostics",
+        "status": "published",        
+        "category": "medical",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Artificial intelligence is being integrated into medical diagnostics, offering faster and more accurate results for patients..."
+    },
+    {
+        "_id":"19",
+        "title": "Mental Health Awareness",
+        "status": "published",        
+        "category": "medical",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Mental health awareness campaigns are growing globally, encouraging people to seek help and support when needed..."
+    },
+    {
+        "_id":"20",
+        "title": "Advances in Medical Robotics",
+        "status": "draft",        
+        "category": "medical",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Medical robotics are playing a pivotal role in modern surgeries, enabling precise and minimally invasive procedures..."
+    },
+    {
+        "_id":"21",
+        "title": "Top 10 New Tech Applications",
+        "status": "published",        
+        "category": "apps",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "These new tech applications are set to transform industries, from finance to healthcare, in the coming years..."
+    },
+    {
+        "_id":"22",
+        "title": "Blockchain in Everyday Use",
+        "status": "published",        
+        "category": "apps",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Blockchain technology is expanding beyond cryptocurrency, being used in supply chain management, digital contracts, and more..."
+    },
+    {
+        "_id":"23",
+        "title": "Augmented Reality in Education",
+        "status": "published",        
+        "category": "apps",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Augmented reality is being integrated into education, offering immersive learning experiences for students..."
+    },
+    {
+        "_id":"24",
+        "title": "Smart Cities of the Future",
+        "status": "draft",        
+        "category": "apps",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "Smart cities are leveraging technology to improve urban life, from efficient energy use to better traffic management..."
+    },
+    {
+        "_id":"25",
+        "title": "AI-powered Healthcare Applications",
+        "status": "published",        
+        "category": "apps",
+        "publishedTime": "2023-06-06T08:15:00Z",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg",
+        "content": "AI-powered healthcare applications are making diagnostics more accurate, improving patient care, and streamlining medical processes..."
+    }
+]

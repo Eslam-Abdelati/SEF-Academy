@@ -1,0 +1,127 @@
+
+ .title{
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+    margin-bottom: 20px; 
+
+    color: rgb(255, 255, 255);
+}
+ form .user_details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+}
+span.details {
+    color: #ffffff;
+}
+form .user_details .input-box{
+    flex-grow: 1;
+    /* margin: 20px 0 12px 0;
+    width: calc(100% / 3 - 20px); */
+
+}
+form .user_details .input-box.full-width{
+    width: 100%;
+}
+.user_details .input-box select, .user_details .input-box input{
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    /* border: 1px solid #ccc; */
+    padding:10px  ;
+
+    font-size: 16px;
+    transition: all 0.3s ease;
+    margin-top: 8px;
+    
+    color: #ccc;
+    background: #716f6fb9;
+}
+.user_details .input-box input:focus,
+.user_details .input-box input:valid,
+.user_details .input-box select:focus,
+.user_details .input-box select:valid{
+    border-color: #BF9B30;
+}
+
+
+/* Mohammed hussein kamel started from here */
+.mohammed{
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+    color: #ffffff;
+}
+.mohammed .upload-container {
+    border: 2px dashed #FFC107;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    /* max-width: 600px; */
+    height: 100%;
+    /* background-color: #1f1f1f; */
+    margin-top: 10px;
+    margin-top: -5px;
+}
+
+.mohammed .upload-icon i {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #BF9B30;
+}
+
+.mohammed .upload-text {
+    font-size: 18px;
+    margin: 0;
+}
+
+.mohammed .upload-text .browse {
+    color: #FFC107;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.mohammed .supported-formats {
+    font-size: 14px;
+    margin-top: 10px;
+    color: #a0a0a0;
+}
+.mohammed .buttons{
+    /* background-color: red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 0.5vw;
+    margin-top: 7vh;
+
+}
+.mohammed .buttons input {
+    border: none;
+    border-radius: 5px;
+    background-color: #BF9B30;
+    padding: 8px 40px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.mohammed .buttons input:hover {
+    background-color: #d4a32e; 
+}
+
+/* Mohammed hussein kamel ended here */
+
+
+
+
+@media (max-width: 768px) {
+    form .user_details .input-box{
+        width: 100%; 
+    }
+}

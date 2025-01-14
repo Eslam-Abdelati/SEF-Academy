@@ -1,0 +1,706 @@
+.container {
+  width: 100%;
+  margin-top: 150px;
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+  margin-right: 40px !important;
+  margin-left: 100px !important;
+}
+
+i {
+  color: #bf9b30;
+  margin-right: 1px;
+  cursor: pointer;
+  font-size: 30px;
+}
+/* .btn {
+  background-color: #bf9b30 !important;
+  outline: none !important;
+  border: none !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  width: 160px;
+  height: 45px;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+  font-weight: bold !important;
+  color:#d0d0d0 !important;
+} */
+.btn-text {
+  font-size: 12px !important;
+}
+.Student-title {
+  color: #d0d0d0 !important;
+}
+
+.Student-title .line {
+  display: inline-block;
+  width: 80px;
+  height: 0.5px;
+  background-color: #fbd975;
+}
+h1 {
+  font-weight: bold !important;
+}
+
+.me-4 {
+  font-weight: bold !important;
+  text-align: center !important;
+  border: 2px solid #8b701f !important;
+  border-radius: 5px !important;
+}
+
+
+
+.open {
+  display: inline-block;
+  background-color: #bf9b30;
+  border-radius: 50px;
+  width: 110px;
+  height: 45px;
+  text-align: center;
+  padding-top: 10px;
+  color: #d0d0d0 !important;
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+
+.exam-data {
+
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+.p {
+  background-color: rgb(53, 50, 50) !important;
+  width: 60%;
+  height: 100px;
+  line-height: 100px;
+  letter-spacing: 0.5;
+  font-weight: bold;
+}
+
+.bi {
+  font-size: 30px;
+  height: 15px;
+  line-height: 15px;
+  margin-left: 45px;
+}
+
+.icon {
+  color: #fbd975;
+}
+.uncming-exam-date {
+  background-color: rgb(22, 21, 21) !important;
+  color: white;
+  padding: 1px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.student-progress-info-container {
+  background: #00000059;
+  padding: 25px;
+}
+.student-progress-count {
+  border: 2px solid #bf9b30;
+  padding: 30px;
+}
+
+.progress-item h2,
+.progress-item span {
+  font-size: 20px;
+  color: #2e2d2d;
+  font-weight: 700;
+  margin: 15px 0;
+}
+
+.progress-bar {
+  background-color: #bf9b30;
+}
+.progress-bar {
+  background-color: #bf9b30;
+  animation: scleanimate 3s linear;
+}
+
+@keyframes scleanimate {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 97%;
+  }
+}
+
+.progress-bar-circle {
+  background-color: #bf9b30;
+}
+.progress-bar-circle {
+  background-color: #bf9b30;
+  width: 100px;
+  height: 100px;
+  border: 5px solid red;
+  border-radius: 50%;
+  animation: circle1 3s linear;
+}
+
+@keyframes circle1 {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 91%;
+  }
+}
+
+.progress-section {
+  padding: 500px 0 100px;
+  position: relative;
+}
+
+.section_info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.section_info p {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgb(255, 255, 255);
+  opacity: 1;
+  -webkit-animation: showText 0.5s 1s linear forwards;
+  animation: showText 0.5s 1s linear forwards;
+}
+
+.progress-line {
+  margin-top: 7px;
+  height: 10px;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 50px;
+  position: relative;
+  margin-bottom: 250px;
+}
+
+.progress-line span {
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: left;
+  transform-origin: left;
+  -webkit-animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+  animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+  height: 100%;
+  border-radius: 50px;
+  position: absolute;
+  background-color: #bf9b30;
+  transition: 1s all;
+}
+
+.progress-line span.animate {
+  -webkit-animation: animate 1.5s 0.5s cubic-bezier(1, 0, 0.5, 1) forwards;
+  animation: animate 1.5s 0.5s cubic-bezier(1, 0, 0.5, 1) forwards;
+}
+
+@-webkit-keyframes showText {
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes showText {
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes animate {
+  100% {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
+
+@keyframes animate {
+  100% {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
+.exam-data {
+  background: rgba(0, 0, 0, 0.4) !important;
+}
+.progress-bar {
+  background-color: #bf9b30 !important;
+}
+
+
+.name1 {
+  color: #d0cccc;
+}
+
+
+
+.certificante-info {
+  margin-left: 10px;
+  color: #ffefef;
+}
+
+.certificant-desc {
+  display: flex;
+  justify-content: space-between;
+  background: rgba(0, 0, 0, 0.4) !important;
+  border-radius: 7px;
+  letter-spacing: 1px;
+  font-size: 18px;
+  padding: 0px;
+}
+
+.certificante-info span {
+  color: #bf9b30;
+}
+
+.certificante-download {
+  background-color: #bf9b30;
+  border-radius: 6px;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.course-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.course-title {
+  text-align: left;
+  padding-left: 0px;
+  padding-top: 230px;
+}
+
+.course-item {
+  width: 300px;
+  height: 430px;
+  position: relative;
+}
+.course-bar {
+  position: absolute;
+}
+
+.course-item .p {
+  position: absolute;
+  text-align: center;
+  padding-top: 50px;
+}
+.course-desc h2 {
+  font-weight: bold !important;
+  padding-bottom: 10px;
+  padding-top: 15px;
+}
+
+.course-desc p {
+  font-weight: bold !important;
+  font-size: larger;
+}
+
+.progress-circle {
+  margin-top: 20px;
+  margin-left: 40%;
+  height: 70px;
+  width: 70px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 10px;
+}
+
+.progress-circle span {
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: left;
+  transform-origin: left;
+  -webkit-animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+  animation: animate 1s cubic-bezier(1, 0, 0.5, 1) forwards;
+  height: 100%;
+  border-radius: 50px;
+  position: absolute;
+  background-color: #bf9b30;
+  transition: 1s all;
+}
+
+.progress-circle span.animate {
+  -webkit-animation: animate 1.5s 0.5s cubic-bezier(1, 0, 0.5, 1) forwards;
+  animation: animate 1.5s 0.5s cubic-bezier(1, 0, 0.5, 1) forwards;
+}
+
+@-webkit-keyframes showText {
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes showText {
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes animate {
+  100% {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
+
+@keyframes animate {
+  100% {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+}
+
+.name {
+  color: #d0d0d0 !important;
+}
+.ins {
+  color: #c29c2a;
+}
+/* 
+.level {
+  font-weight: bold !important;
+  height: 60px;
+  padding-right: 290px;
+} */
+
+.register-course .btn {
+  color: antiquewhite;
+}
+
+.footer-section {
+  height: 100px;
+}
+.uncming-exam-date .wed {
+  background-color: #bf9b30 !important;
+}
+
+.left-section {
+  margin-right: 180px !important;
+}
+.course-item {
+  position: relative;
+}
+.circular-progress {
+  position: absolute;
+  margin: 0px 20px;
+  z-index: 1;
+  --size: 250px;
+  --half-size: calc(var(--size) / 2);
+  --stroke-width: 20px;
+  --radius: calc((var(--size) - var(--stroke-width)) / 2);
+  --circumference: calc(var(--radius) * pi * 2);
+  --dash: calc((var(--progress) * var(--circumference)) / 100);
+  animation: progress-animation 5s linear 0s 1 forwards;
+}
+
+.circular-progress circle {
+  cx: var(--half-size);
+  cy: var(--half-size);
+  r: var(--radius);
+  stroke-width: var(--stroke-width);
+  fill: none;
+  stroke-linecap: round;
+}
+
+.circular-progress circle.bg {
+  stroke: #ddd;
+}
+
+.circular-progress circle.fg {
+  transform: rotate(-90deg);
+  transform-origin: var(--half-size) var(--half-size);
+  stroke-dasharray: var(--dash) calc(var(--circumference) - var(--dash));
+  transition: stroke-dasharray 0.3s linear 0s;
+  stroke: #bf9b30;
+}
+
+@property --progress {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes progress-animation {
+  from {
+    --progress: 0;
+  }
+  to {
+    --progress: 91;
+  }
+}
+
+.circular-progress1 {
+  position: absolute;
+  z-index: 1;
+  margin: 20px 40px;
+  --size: 180px;
+  --half-size: calc(var(--size) / 2);
+  --stroke-width: 20px;
+  --radius: calc((var(--size) - var(--stroke-width)) / 2);
+  --circumference: calc(var(--radius) * pi * 2);
+  --dash: calc((var(--progress) * var(--circumference)) / 100);
+  animation: progress-animation 5s linear 0s 1 forwards;
+}
+
+.circular-progress1 circle {
+  cx: var(--half-size);
+  cy: var(--half-size);
+  r: var(--radius);
+  stroke-width: var(--stroke-width);
+  fill: none;
+  stroke-linecap: round;
+}
+
+.circular-progress1 circle.bg {
+  stroke: #ddd;
+}
+
+.circular-progress1 circle.fg {
+  transform: rotate(-90deg);
+  transform-origin: var(--half-size) var(--half-size);
+  stroke-dasharray: var(--dash) calc(var(--circumference) - var(--dash));
+  transition: stroke-dasharray 0.3s linear 0s;
+  stroke: #bf9b30;
+}
+
+@property --progress {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes progress-animation {
+  from {
+    --progress: 0;
+  }
+  to {
+    --progress: 91;
+  }
+}
+
+.circular1 {
+  position: absolute;
+  margin: 0px 20px;
+  z-index: 1;
+  --size: 250px;
+  --half-size: calc(var(--size) / 2);
+  --stroke-width: 20px;
+  --radius: calc((var(--size) - var(--stroke-width)) / 2);
+  --circumference: calc(var(--radius) * pi * 2);
+  --dash: calc((var(--progress) * var(--circumference)) / 100);
+  animation: progress-animation1 5s linear 0s 1 forwards;
+}
+
+.circular1 circle {
+  cx: var(--half-size);
+  cy: var(--half-size);
+  r: var(--radius);
+  stroke-width: var(--stroke-width);
+  fill: none;
+  stroke-linecap: round;
+}
+
+.circular1 circle.bg {
+  stroke: #ddd;
+}
+
+.circular1 circle.fg {
+  transform: rotate(-90deg);
+  transform-origin: var(--half-size) var(--half-size);
+  stroke-dasharray: var(--dash) calc(var(--circumference) - var(--dash));
+  transition: stroke-dasharray 0.3s linear 0s;
+  stroke: #bf9b30;
+}
+
+@property --progress1 {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes progress-animation1 {
+  from {
+    --progress: 0;
+  }
+  to {
+    --progress: 80;
+  }
+}
+
+.circular11 {
+  position: absolute;
+  z-index: 1;
+  margin: 20px 40px;
+  --size: 180px;
+  --half-size: calc(var(--size) / 2);
+  --stroke-width: 20px;
+  --radius: calc((var(--size) - var(--stroke-width)) / 2);
+  --circumference: calc(var(--radius) * pi * 2);
+  --dash: calc((var(--progress) * var(--circumference)) / 100);
+  animation: progress-animation12 5s linear 0s 1 forwards;
+}
+
+.circular11 circle {
+  cx: var(--half-size);
+  cy: var(--half-size);
+  r: var(--radius);
+  stroke-width: var(--stroke-width);
+  fill: none;
+  stroke-linecap: round;
+}
+
+.circular11 circle.bg {
+  stroke: #ddd;
+}
+
+.circular11 circle.fg {
+  transform: rotate(-90deg);
+  transform-origin: var(--half-size) var(--half-size);
+  stroke-dasharray: var(--dash) calc(var(--circumference) - var(--dash));
+  transition: stroke-dasharray 0.3s linear 0s;
+  stroke: #bf9b30;
+}
+
+@property --progress12 {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes progress-animation12 {
+  from {
+    --progress: 0;
+  }
+  to {
+    --progress: 75;
+  }
+}
+
+.circular2 {
+  position: absolute;
+  margin: 0px 20px;
+  z-index: 1;
+  --size: 250px;
+  --half-size: calc(var(--size) / 2);
+  --stroke-width: 20px;
+  --radius: calc((var(--size) - var(--stroke-width)) / 2);
+  --circumference: calc(var(--radius) * pi * 2);
+  --dash: calc((var(--progress) * var(--circumference)) / 100);
+  animation: progress-animation2 5s linear 0s 1 forwards;
+}
+
+.circular2 circle {
+  cx: var(--half-size);
+  cy: var(--half-size);
+  r: var(--radius);
+  stroke-width: var(--stroke-width);
+  fill: none;
+  stroke-linecap: round;
+}
+
+.circular2 circle.bg {
+  stroke: #ddd;
+}
+
+.circular2 circle.fg {
+  transform: rotate(-90deg);
+  transform-origin: var(--half-size) var(--half-size);
+  stroke-dasharray: var(--dash) calc(var(--circumference) - var(--dash));
+  transition: stroke-dasharray 0.3s linear 0s;
+  stroke: #bf9b30;
+}
+
+@property --progress2 {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes progress-animation2 {
+  from {
+    --progress: 0;
+  }
+  to {
+    --progress: 100;
+  }
+}
+
+.circular22 {
+  position: absolute;
+  z-index: 1;
+  margin: 20px 40px;
+  --size: 180px;
+  --half-size: calc(var(--size) / 2);
+  --stroke-width: 20px;
+  --radius: calc((var(--size) - var(--stroke-width)) / 2);
+  --circumference: calc(var(--radius) * pi * 2);
+  --dash: calc((var(--progress) * var(--circumference)) / 100);
+  animation: progress-animation22 5s linear 0s 1 forwards;
+}
+
+.circular22 circle {
+  cx: var(--half-size);
+  cy: var(--half-size);
+  r: var(--radius);
+  stroke-width: var(--stroke-width);
+  fill: none;
+  stroke-linecap: round;
+}
+
+.circular22 circle.bg {
+  stroke: #ddd;
+}
+
+.circular22 circle.fg {
+  transform: rotate(-90deg);
+  transform-origin: var(--half-size) var(--half-size);
+  stroke-dasharray: var(--dash) calc(var(--circumference) - var(--dash));
+  transition: stroke-dasharray 0.3s linear 0s;
+  stroke: #bf9b30;
+}
+
+@property --progress22 {
+  syntax: "<number>";
+  inherits: false;
+  initial-value: 0;
+}
+
+@keyframes progress-animation22 {
+  from {
+    --progress: 0;
+  }
+  to {
+    --progress: 100;
+  }
+}
+
+
+.students-course-card-progress{
+  background: #1f1f1f  !important;
+  padding: 50px auto !important;
+}

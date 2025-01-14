@@ -1,0 +1,227 @@
+[
+    {
+        "_id": 1,
+        "title": "AI in the Future of Work",
+        "category": "tech",
+        "time": "10:00 AM",
+        "date": "Tuesday, July 1st",
+        "image": "https://dummyjson.com/image/tech/128",
+        "content": "Artificial intelligence is poised to revolutionize the workforce by automating mundane tasks and enhancing productivity..."
+    },
+    {
+        "_id": 2,
+        "title": "Quantum Computing Breakthrough",
+        "category": "tech",
+        "time": "12:30 PM",
+        "date": "Wednesday, July 2nd",
+        "image": "https://dummyjson.com/image/tech/129",
+        "content": "Quantum computing is making significant strides, potentially solving complex problems faster than classical computers..."
+    },
+    {
+        "_id": 3,
+        "title": "Cybersecurity in 2024",
+        "category": "tech",
+        "time": "11:45 AM",
+        "date": "Thursday, July 3rd",
+        "image": "https://dummyjson.com/image/tech/130",
+        "content": "As technology advances, the need for robust cybersecurity solutions becomes critical to protect personal and corporate data..."
+    },
+    {
+        "_id": 4,
+        "title": "The Rise of 5G Networks",
+        "category": "tech",
+        "time": "02:00 PM",
+        "date": "Friday, July 4th",
+        "image": "https://dummyjson.com/image/tech/131",
+        "content": "5G networks are expected to increase internet speeds and improve connectivity, revolutionizing industries and applications..."
+    },
+    {
+        "_id": 5,
+        "title": "Tech Applications in Healthcare",
+        "category": "tech",
+        "time": "09:00 AM",
+        "date": "Saturday, July 5th",
+        "image": "https://dummyjson.com/image/tech/132",
+        "content": "Innovative tech applications are being integrated into healthcare, improving patient outcomes and streamlining processes..."
+    },
+    {
+        "_id": 6,
+        "title": "Economic Outlook for 2024",
+        "category": "business",
+        "time": "03:30 PM",
+        "date": "Monday, August 1st",
+        "image": "https://dummyjson.com/image/business/128",
+        "content": "As the world recovers from recent economic disruptions, experts weigh in on what the future holds for global markets..."
+    },
+    {
+        "_id": 7,
+        "title": "Startups Revolutionizing the Industry",
+        "category": "business",
+        "time": "12:00 PM",
+        "date": "Tuesday, August 2nd",
+        "image": "https://dummyjson.com/image/business/129",
+        "content": "A wave of new startups is disrupting traditional industries with innovative products and services..."
+    },
+    {
+        "_id": 8,
+        "title": "Financial Tech and Digital Banking",
+        "category": "business",
+        "time": "04:15 PM",
+        "date": "Wednesday, August 3rd",
+        "image": "https://dummyjson.com/image/business/130",
+        "content": "Digital banking and financial technology continue to shape the future of the financial industry, offering new ways to manage money..."
+    },
+    {
+        "_id": 9,
+        "title": "Corporate Sustainability in Focus",
+        "category": "business",
+        "time": "09:30 AM",
+        "date": "Thursday, August 4th",
+        "image": "https://dummyjson.com/image/business/131",
+        "content": "Corporations are adopting sustainability practices to reduce their carbon footprint and appeal to eco-conscious consumers..."
+    },
+    {
+        "_id": 10,
+        "title": "Mergers and Acquisitions on the Rise",
+        "category": "business",
+        "time": "02:45 PM",
+        "date": "Friday, August 5th",
+        "image": "https://dummyjson.com/image/business/132",
+        "content": "Recent trends show an uptick in mergers and acquisitions as companies seek to expand and consolidate their market positions..."
+    },
+    {
+        "_id": 11,
+        "title": "Olympics 2024: What to Expect",
+        "category": "sports",
+        "time": "05:00 PM",
+        "date": "Saturday, September 1st",
+        "image": "https://dummyjson.com/image/sports/128",
+        "content": "As the 2024 Olympics approach, athletes around the world are preparing for the biggest competition of their careers..."
+    },
+    {
+        "_id": 12,
+        "title": "Football World Cup Highlights",
+        "category": "sports",
+        "time": "01:15 PM",
+        "date": "Sunday, September 2nd",
+        "image": "https://dummyjson.com/image/sports/129",
+        "content": "The 2024 Football World Cup was full of surprises and thrilling matches, captivating fans worldwide..."
+    },
+    {
+        "_id": 13,
+        "title": "Tennis Grand Slam Recap",
+        "category": "sports",
+        "time": "06:45 PM",
+        "date": "Monday, September 3rd",
+        "image": "https://dummyjson.com/image/sports/130",
+        "content": "This year's Tennis Grand Slam events showcased incredible talent and fierce competition..."
+    },
+    {
+        "_id": 14,
+        "title": "Basketball Season Overview",
+        "category": "sports",
+        "time": "08:30 PM",
+        "date": "Tuesday, September 4th",
+        "image": "https://dummyjson.com/image/sports/131",
+        "content": "The basketball season was packed with intense matchups, unexpected wins, and standout performances from rising stars..."
+    },
+    {
+        "_id": 15,
+        "title": "Cricket: A Global Sport",
+        "category": "sports",
+        "time": "02:20 PM",
+        "date": "Wednesday, September 5th",
+        "image": "https://dummyjson.com/image/sports/132",
+        "content": "Cricket continues to gain popularity worldwide, with new leagues and tournaments bringing more attention to the sport..."
+    },
+    {
+        "_id": 16,
+        "title": "Telemedicine's Role in Healthcare",
+        "category": "medical",
+        "time": "10:45 AM",
+        "date": "Thursday, October 1st",
+        "image": "https://dummyjson.com/image/medical/128",
+        "content": "Telemedicine has revolutionized healthcare by providing remote consultations and reducing the need for physical visits..."
+    },
+    {
+        "_id": 17,
+        "title": "Vaccination Efforts in 2024",
+        "category": "medical",
+        "time": "01:00 PM",
+        "date": "Friday, October 2nd",
+        "image": "https://dummyjson.com/image/medical/129",
+        "content": "Countries are ramping up vaccination efforts to curb the spread of diseases and ensure public health safety..."
+    },
+    {
+        "_id": 18,
+        "title": "Medical AI for Diagnostics",
+        "category": "medical",
+        "time": "09:30 AM",
+        "date": "Saturday, October 3rd",
+        "image": "https://dummyjson.com/image/medical/130",
+        "content": "Artificial intelligence is being integrated into medical diagnostics, offering faster and more accurate results for patients..."
+    },
+    {
+        "_id": 19,
+        "title": "Mental Health Awareness",
+        "category": "medical",
+        "time": "03:00 PM",
+        "date": "Sunday, October 4th",
+        "image": "https://dummyjson.com/image/medical/131",
+        "content": "Mental health awareness campaigns are growing globally, encouraging people to seek help and support when needed..."
+    },
+    {
+        "_id": 20,
+        "title": "Advances in Medical Robotics",
+        "category": "medical",
+        "time": "04:30 PM",
+        "date": "Monday, October 5th",
+        "image": "https://dummyjson.com/image/medical/132",
+        "content": "Medical robotics are playing a pivotal role in modern surgeries, enabling precise and minimally invasive procedures..."
+    },
+    {
+        "_id": 21,
+        "title": "Top 10 New Tech Applications",
+        "category": "apps",
+        "time": "09:00 AM",
+        "date": "Friday, November 1st",
+        "image": "https://dummyjson.com/image/newtech/128",
+        "content": "These new tech applications are set to transform industries, from finance to healthcare, in the coming years..."
+    },
+    {
+        "_id": 22,
+        "title": "Blockchain in Everyday Use",
+        "category": "apps",
+        "time": "11:30 AM",
+        "date": "Saturday, November 2nd",
+        "image": "https://dummyjson.com/image/newtech/129",
+        "content": "Blockchain technology is expanding beyond cryptocurrency, being used in supply chain management, digital contracts, and more..."
+    },
+    {
+        "_id": 23,
+        "title": "Augmented Reality in Education",
+        "category": "apps",
+        "time": "02:00 PM",
+        "date": "Sunday, November 3rd",
+        "image": "https://dummyjson.com/image/newtech/130",
+        "content": "Augmented reality is being integrated into education, offering immersive learning experiences for students..."
+    },
+    {
+        "_id": 24,
+        "title": "Smart Cities of the Future",
+        "category": "apps",
+        "time": "01:15 PM",
+        "date": "Monday, November 4th",
+        "image": "https://dummyjson.com/image/newtech/131",
+        "content": "Smart cities are leveraging technology to improve urban life, from efficient energy use to better traffic management..."
+    },
+    {
+        "_id": 25,
+        "title": "AI-powered Healthcare Applications",
+        "category": "apps",
+        "time": "12:45 PM",
+        "date": "Tuesday, November 5th",
+        "image": "https://dummyjson.com/image/newtech/132",
+        "content": "AI-powered healthcare applications are making diagnostics more accurate, improving patient care, and streamlining medical processes..."
+    }
+]

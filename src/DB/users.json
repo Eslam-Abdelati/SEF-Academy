@@ -1,0 +1,56 @@
+[
+  {
+    "userID": 1,
+    "email": "admin@admin.com",
+    "phone": "+81 965-431-3024",
+    "username": "Admin Name",
+    "image": "https://dummyjson.com/icon/emilys/128",
+    "role": "admin",
+    "password": "12345"
+  },
+  {
+    "userID": 2,
+    "email": "student@student.com",
+    "phone": "+49 258-627-6644",
+    "username": "student Name",
+    "image": "https://dummyjson.com/icon/michaelw/128",
+    "role": "student",
+    "password": "12345"
+  },
+  {
+    "userID": 3,
+    "email": "instructor@instructor.com",
+    "phone": "+81 210-652-2785",
+    "username": "instructor Name",
+    "image": "https://dummyjson.com/icon/sophiab/128",
+    "role": "instructor",
+    "password": "12345"
+  },
+  {
+    "userID": 4,
+    "email": "admin2@admin.com",
+    "phone": "+81 965-431-3024",
+    "username": "Admin2 Name",
+    "image": "https://dummyjson.com/icon/emilys/128",
+    "role": "admin",
+    "password": "12345"
+  },
+  {
+    "userID": 5,
+    "email": "student2@student.com",
+    "phone": "+49 258-627-6644",
+    "username": "student2 Name",
+    "image": "https://dummyjson.com/icon/michaelw/128",
+    "role": "student",
+    "password": "12345"
+  },
+  {
+    "userID": 6,
+    "email": "instructor2@instructor.com",
+    "phone": "+81 210-652-2785",
+    "username": "instructor2 Name",
+    "image": "https://dummyjson.com/icon/sophiab/128",
+    "role": "instructor",
+    "password": "12345"
+  }
+]

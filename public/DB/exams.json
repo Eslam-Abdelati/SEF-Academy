@@ -1,0 +1,232 @@
+[
+  {
+    "id": "1",
+    "title": "Geography Exam",
+    "instructor": "Mohamed Ali",
+    "status": "ended",
+    "level": "2",
+    "publishedOn": "2024-06-05T12:30:00",
+    "startDate": "2024-09-25",
+    "duration": 60,
+    "totalQuestions": 4,
+    "totalMarks": 20,
+    "questions": [
+      {
+        "id": "1",
+        "question": "What is the capital of France?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "paris",
+        "answers": ["paris", "london", "berlin", "madrid"],
+        "mark": 5
+      },
+      {
+        "id": "2",
+        "question": "What is the capital of Germany?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "berlin",
+        "answers": ["paris", "london", "berlin", "madrid"],
+        "mark": 5
+      },
+      {
+        "id": "3",
+        "question": "What is the capital of Italy?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "rome",
+        "mark": 5
+      },
+      {
+        "id": "4",
+        "question": "What is the capital of Egypt?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "cairo",
+        "mark": 5
+      }
+    ],
+    "students": [
+      {
+        "userID": "55",
+        "studentMarks": 10,
+        "timeTaken": 600,
+        "correctAnswerQuestions": 2,
+        "wrongAnswerQuestions": 0,
+        "unansweredQuestions": 2,
+        "studentAnswers": [
+          {
+            "QID": "1",
+            "answer": "paris"
+          },
+          {
+            "QID": "2",
+            "answer": "berlin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Geography Exam",
+    "instructor": "Mohamed Ali",
+    "status": "active",
+    "level": "2",
+    "publishedOn": "2024-06-05T12:30:00",
+    "startDate": "2024-10-05",
+    "duration": 3600,
+    "totalQuestions": 4,
+    "totalMarks": 20,
+    "questions": [
+      {
+        "id": "1",
+        "question": "What is the capital of France?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "paris",
+        "answers": ["paris", "london", "berlin", "madrid"],
+        "mark": 5
+      },
+      {
+        "id": "2",
+        "question": "What is the capital of Germany?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "berlin",
+        "answers": ["paris", "london", "berlin", "madrid"],
+        "mark": 5
+      },
+      {
+        "id": "3",
+        "question": "What is the capital of Italy?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "rome",
+        "mark": 5
+      },
+      {
+        "id": "4",
+        "question": "What is the capital of Egypt?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "cairo",
+        "mark": 5
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": "3",
+    "title": "React.js Exam",
+    "instructor": "John Smith",
+    "status": "active",
+    "level": "3",
+    "publishedOn": "2024-09-01T10:00:00",
+    "startDate": "2024-09-01",
+    "duration": 7200,
+    "totalQuestions": 4,
+    "totalMarks": 20,
+    "questions": [
+      {
+        "id": "1",
+        "question": "What is JSX in React?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "A syntax extension for JavaScript",
+        "answers": [
+          "A database",
+          "A syntax extension for JavaScript",
+          "A React component",
+          "A backend framework"
+        ],
+        "mark": 5
+      },
+      {
+        "id": "2",
+        "question": "How do you pass data to a child component?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "By using props",
+        "answers": [
+          "By using props",
+          "By using state",
+          "By using context",
+          "By using events"
+        ],
+        "mark": 5
+      },
+      {
+        "id": "3",
+        "question": "What is the use of `useEffect` hook?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "To perform side effects in functional components",
+        "mark": 5
+      },
+      {
+        "id": "4",
+        "question": "What is the virtual DOM in React?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "A representation of the real DOM that helps React manage updates efficiently",
+        "mark": 5
+      }
+    ],
+    "students": []
+  },
+  {
+    "id": "4",
+    "title": "Node.js Exam",
+    "instructor": "Jane Doe",
+    "status": "active",
+    "level": "3",
+    "publishedOn": "2024-09-03T14:00:00",
+    "startDate": "2024-09-14",
+    "duration": 5400,
+    "totalQuestions": 4,
+    "totalMarks": 20,
+    "questions": [
+      {
+        "id": "1",
+        "question": "What is Node.js?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "A runtime environment for executing JavaScript code on the server",
+        "answers": [
+          "A runtime environment for executing JavaScript code on the server",
+          "A front-end framework",
+          "A database",
+          "A programming language"
+        ],
+        "mark": 5
+      },
+      {
+        "id": "2",
+        "question": "Which module is used to create a server in Node.js?",
+        "type": "choose",
+        "img": "",
+        "correctAnswer": "The http module",
+        "answers": ["The http module", "The fs module", "The path module", "The os module"],
+        "mark": 5
+      },
+      {
+        "id": "3",
+        "question": "How does Node.js handle asynchronous operations?",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "Using event-driven architecture, callbacks, and promises",
+        "mark": 5
+      },
+      {
+        "id": "4",
+        "question": "Explain the concept of middleware in Express.js.",
+        "type": "essay",
+        "img": "",
+        "correctAnswer": "Middleware functions have access to request and response objects and can modify them or terminate the request-response cycle",
+        "mark": 5
+      }
+    ],
+    "students": []
+  }
+]

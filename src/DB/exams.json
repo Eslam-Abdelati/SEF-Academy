@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Exam 1",
+        "instructor": "Mohamed Ali",
+        "status": "ended",
+        "level": "2",
+        "publishedOn": "Monday,June 5th 12:30 PM",
+        "startDate": "Monday,June 5th ",
+        "endDate": "Monday,June 10th ",
+        "duration":60,
+        "totalQuestions": 4,
+        "totalMarks":20,
+        "questions" : [
+            {
+                "question": "What is the capital of France?",
+                "type":"choose",
+                "img": "",
+                "correctAnswer": "paris",
+                "answers": ["paris", "london", "berlin", "madrid"],
+                "mark":5
+            },
+            {
+                "question": "What is the capital of Germany?",
+                "type":"choose",
+                "img": "",
+                "correctAnswer": "berlin",
+                "answers": ["paris", "london", "berlin", "madrid"],
+                "mark":5
+            },
+            {
+                "question": "What is the capital of Italy?",
+                "type":"essay",
+                "img": "",
+                "correctAnswer": "rome",
+                "mark":5
+            },
+            {
+                "question": "What is the capital of Egypt?",
+                "type":"essay",
+                "img": "",
+                "correctAnswer": "cairo",
+                "mark":5
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Exam 1",
+        "instructor": "Mohamed Ali",
+        "status": "active",
+        "level": "2",
+        "publishedOn": "Monday,June 5th 12:30 PM",
+        "startDate": "Monday,June 5th ",
+        "endDate": "Monday,June 10th ",
+        "duration":60,
+        "totalQuestions": 4,
+        "totalMarks":20,
+        "questions" : [
+            {
+                "question": "What is the capital of France?",
+                "type":"choose",
+                "img": "",
+                "correctAnswer": "paris",
+                "answers": ["paris", "london", "berlin", "madrid"],
+                "mark":5
+            },
+            {
+                "question": "What is the capital of Germany?",
+                "type":"choose",
+                "img": "",
+                "correctAnswer": "berlin",
+                "answers": ["paris", "london", "berlin", "madrid"],
+                "mark":5
+            },
+            {
+                "question": "What is the capital of Italy?",
+                "type":"essay",
+                "img": "",
+                "correctAnswer": "rome",
+                "mark":5
+            },
+            {
+                "question": "What is the capital of Egypt?",
+                "type":"essay",
+                "img": "",
+                "correctAnswer": "cairo",
+                "mark":5
+            }
+        ]
+    }
+]

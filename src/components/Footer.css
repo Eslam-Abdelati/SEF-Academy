@@ -1,0 +1,162 @@
+/* General Styles */
+.footer-container {
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 0 50px 20px;
+}
+
+.footer-content {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: nowrap; /* Ensure elements don't wrap to the next line */
+}
+
+/* First Stage */
+.first-stage {
+  display: flex;
+  flex-direction: column;
+  max-width: 45%;
+}
+
+.footer-logo {
+  width: 150px;
+  height: auto;
+  margin-bottom: 5px;
+}
+
+.footer-text .footer-title {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+
+.footer-line {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 5px;
+  flex-wrap: wrap;
+}
+
+.footer-line span {
+  font-size: 16px;
+  cursor: pointer; /* Make the words clickable */
+}
+
+/* Second Stage */
+.second-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  max-width: 45%;
+  position: relative;
+  margin-top: 180px; /* Adjust margin-top for distance */
+}
+
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.contact-line {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  font-size: 16px;
+}
+
+.contact-icon {
+  font-size: 18px;
+}
+
+.scroll-top {
+  width: 40px;
+  height: 40px;
+  border: 2px solid rgb(255, 153, 0); 
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  position: absolute;
+  top: -50px;
+  right: 50px;
+}
+
+.scroll-top:hover {
+  background-color: rgb(247, 132, 0);
+}
+
+.up-arrow-icon {
+  font-size: 20px;
+}
+
+/* Separator Line
+.footer-separator {
+  width: 80%;
+  margin: 20px auto 10px auto;
+  border: none;
+  height: 2px;
+  background-color: #fff;
+} */
+
+/* Bottom Section */
+.footer-bottom {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-bottom div {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.copy-icon {
+  font-size: 14px;
+}
+
+.footer-socials .social-icon {
+  font-size: 18px; /* Increase size to 18px */
+  transition: color 0.3s ease;
+  color: #fff; /* Ensure the social icons are white */
+  cursor: pointer;
+}
+
+.footer-socials .social-icon:hover {
+  color: #ccc;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .first-stage,
+  .second-stage {
+    max-width: 100%;
+  }
+
+  .second-stage {
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+}

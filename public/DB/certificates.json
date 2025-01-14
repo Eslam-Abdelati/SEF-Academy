@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Here's the certificate title1",
+        "company": "SEF",
+        "publishedOn": "Monday,June 10th 12:30 PM",
+        "image": "https://dummyjson.com/icon/emilys/128",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus iure animi ut expedita ex ullam tempore nisi, blanditiis explicabo amet eligendi aut harum beatae, consequatur odio architecto, in qui quia"
+    },
+    {
+        "id": 2,
+        "title": "Here's the certificate title2",
+        "category": "SEF",
+        "time": "12:30 PM",
+        "publishedOn": "Monday,June 10th 12:30 PM",
+        "image": "https://dummyjson.com/icon/emilys/128",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus iure animi ut expedita ex ullam tempore nisi, blanditiis explicabo amet eligendi aut harum beatae, consequatur odio architecto, in qui quia"
+    },
+    {
+        "id": 3,
+        "title": "Here's the certificate title3",
+        "category": "SEF",
+        "time": "12:30 PM",
+        "publishedOn": "Monday,June 10th 12:30 PM",
+        "image": "https://dummyjson.com/icon/emilys/128",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus iure animi ut expedita ex ullam tempore nisi, blanditiis explicabo amet eligendi aut harum beatae, consequatur odio architecto, in qui quia"
+    },
+    {
+        "id": 4,
+        "title": "Here's the certificate title4",
+        "category": "SEF",
+        "time": "12:30 PM",
+        "publishedOn": "Monday,June 10th 12:30 PM",
+        "image": "https://dummyjson.com/icon/emilys/128",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ducimus iure animi ut expedita ex ullam tempore nisi, blanditiis explicabo amet eligendi aut harum beatae, consequatur odio architecto, in qui quia"
+    }
+]
